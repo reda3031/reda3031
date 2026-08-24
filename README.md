@@ -23,7 +23,7 @@ Welcome to my GitHub! I am a passionate developer currently pursuing a double cu
 
 ### 📫 Let's Connect
 *   **Email:** elghassibmohammedreda@gmail.com
-*   **LinkedIn:** [Add your link here if you have one, or delete this line]
+*   **LinkedIn:** https://www.linkedin.com/in/mohammed-reda-el-ghassib-131202307/
 
 ---
 ⭐️ *Building scalable solutions, one commit at a time.*
